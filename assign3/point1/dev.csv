@@ -38,7 +38,7 @@
 36,0006668.jpeg,"['Comedy', 'Short']"
 37,0102585.jpeg,"['Horror', 'Mystery', 'Thriller']"
 38,0095385.jpeg,['Drama']
-39,0043390.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+39,0043390.jpeg,"['Crime', 'Drama', 'Thriller']"
 40,0119250.jpeg,"['Crime', 'Drama', 'Romance', 'Thriller']"
 41,1633356.jpeg,"['Horror', 'Thriller']"
 42,0226874.jpeg,"['Crime', 'Drama', 'Thriller']"
@@ -46,7 +46,7 @@
 44,0436460.jpeg,"['Romance', 'Drama']"
 45,0028665.jpeg,"['Musical', 'Romance']"
 46,0101465.jpeg,"['Adventure', 'Drama', 'History', 'Western']"
-47,0042041.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+47,0042041.jpeg,"['Crime', 'Drama', 'Thriller']"
 48,0064208.jpeg,['Western']
 49,2314886.jpeg,"['Action', 'Thriller']"
 50,0081529.jpeg,"['Action', 'Comedy']"
@@ -61,7 +61,7 @@
 59,0759612.jpeg,"['Biography', 'Crime', 'Drama', 'Romance']"
 60,2078586.jpeg,['Comedy']
 61,0031210.jpeg,"['Drama', 'Romance']"
-62,0040427.jpeg,"['Crime', 'Film-Noir', 'Thriller']"
+62,0040427.jpeg,"['Crime', 'Thriller']"
 63,1811307.jpeg,"['Biography', 'Drama', 'Romance', 'War']"
 64,0107146.jpeg,"['Crime', 'Drama', 'History', 'Mystery']"
 65,0077728.jpeg,"['Comedy', 'Drama', 'Romance']"
@@ -119,7 +119,7 @@
 117,0203019.jpeg,"['Biography', 'Drama']"
 118,0278731.jpeg,"['Drama', 'Mystery', 'Thriller']"
 119,0088291.jpeg,"['Comedy', 'Drama']"
-120,0079642.jpeg,"['Horror', 'Adult']"
+120,0079642.jpeg,['Horror']
 121,0373416.jpeg,"['Action', 'Comedy', 'Crime', 'Drama', 'Thriller']"
 122,0301777.jpeg,"['Drama', 'Romance', 'Sci-Fi']"
 123,0416315.jpeg,['Horror']
@@ -232,7 +232,7 @@
 230,0402348.jpeg,"['Drama', 'Family', 'Western']"
 231,0078187.jpeg,"['Animation', 'Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']"
 232,0084865.jpeg,"['Comedy', 'Music', 'Musical', 'Romance']"
-233,0047417.jpeg,"['Crime', 'Drama', 'Film-Noir']"
+233,0047417.jpeg,"['Crime', 'Drama']"
 234,0062673.jpeg,"['Drama', 'History', 'War']"
 235,0242994.jpeg,"['Comedy', 'Crime', 'Drama', 'Romance']"
 236,0038056.jpeg,"['Comedy', 'Crime', 'Mystery', 'Thriller']"
@@ -525,7 +525,7 @@
 523,0825225.jpeg,"['Drama', 'Romance', 'Sport']"
 524,0045935.jpeg,"['Drama', 'History', 'Romance']"
 525,0272736.jpeg,"['Musical', 'Romance', 'Drama', 'Family']"
-526,1410281.jpeg,"['Documentary', 'History', 'News']"
+526,1410281.jpeg,"['Documentary', 'History']"
 527,0019379.jpeg,"['Comedy', 'Romance']"
 528,0062480.jpeg,"['Adventure', 'Comedy', 'Drama', 'Fantasy']"
 529,0466665.jpeg,['Drama']
@@ -606,7 +606,7 @@
 604,0071950.jpeg,"['Mystery', 'Thriller']"
 605,0244000.jpeg,"['Action', 'Western']"
 606,0202153.jpeg,"['Drama', 'Action', 'Adventure']"
-607,0039302.jpeg,"['Film-Noir', 'Thriller']"
+607,0039302.jpeg,['Thriller']
 608,0041515.jpeg,"['Comedy', 'Musical']"
 609,2518788.jpeg,"['Documentary', 'History', 'Sport']"
 610,0116932.jpeg,"['Comedy', 'Drama', 'Romance']"
@@ -644,7 +644,7 @@
 642,0388125.jpeg,"['Comedy', 'Drama', 'Romance']"
 643,0051136.jpeg,"['Crime', 'Drama']"
 644,4191054.jpeg,"['Animation', 'Family', 'Fantasy', 'Musical']"
-645,0039305.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Mystery', 'Thriller']"
+645,0039305.jpeg,"['Crime', 'Drama', 'Mystery', 'Thriller']"
 646,0411477.jpeg,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']"
 647,0383216.jpeg,"['Adventure', 'Comedy', 'Crime', 'Family', 'Mystery']"
 648,0094118.jpeg,"['Comedy', 'Fantasy']"
@@ -676,7 +676,7 @@
 674,2234451.jpeg,"['Drama', 'Mystery', 'Thriller']"
 675,0065622.jpeg,"['Comedy', 'Drama', 'History']"
 676,1673434.jpeg,"['Adventure', 'Drama', 'Fantasy', 'Romance']"
-677,0043075.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+677,0043075.jpeg,"['Crime', 'Drama', 'Thriller']"
 678,0216651.jpeg,"['Animation', 'Action', 'Adventure', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']"
 679,1202203.jpeg,['Documentary']
 680,0074300.jpeg,"['Action', 'Drama']"
@@ -696,7 +696,7 @@
 694,1777034.jpeg,"['Drama', 'History', 'Sport']"
 695,1031658.jpeg,['Drama']
 696,0015841.jpeg,"['Comedy', 'Family', 'Sport']"
-697,0036807.jpeg,"['Film-Noir', 'Romance', 'Thriller']"
+697,0036807.jpeg,"['Romance', 'Thriller']"
 698,0396555.jpeg,"['Animation', 'Adventure', 'Comedy', 'Family', 'Sci-Fi']"
 699,0272020.jpeg,"['Action', 'Drama', 'Thriller']"
 700,0462579.jpeg,"['Comedy', 'Drama', 'Romance']"
@@ -732,7 +732,7 @@
 730,0072278.jpeg,"['Action', 'Crime', 'Western']"
 731,0126627.jpeg,"['Documentary', 'Music']"
 732,0419434.jpeg,"['Documentary', 'History', 'Music']"
-733,0039029.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+733,0039029.jpeg,"['Crime', 'Drama', 'Thriller']"
 734,1355640.jpeg,['Documentary']
 735,0343524.jpeg,"['Comedy', 'Crime', 'Drama', 'Mystery']"
 736,0068273.jpeg,"['Action', 'Crime', 'Drama']"
@@ -784,7 +784,7 @@
 782,0452632.jpeg,['Documentary']
 783,1276996.jpeg,['Documentary']
 784,1915570.jpeg,['Documentary']
-785,0041859.jpeg,"['Film-Noir', 'Sport']"
+785,0041859.jpeg,['Sport']
 786,0115750.jpeg,"['Biography', 'Drama', 'Sport']"
 787,0208185.jpeg,"['Animation', 'Comedy', 'Family', 'Sport']"
 788,0054328.jpeg,"['Drama', 'War']"
@@ -797,7 +797,7 @@
 795,1572769.jpeg,['Documentary']
 796,0078797.jpeg,"['Drama', 'Horror']"
 797,2040281.jpeg,"['Documentary', 'Biography', 'Comedy']"
-798,0039313.jpeg,"['Crime', 'Film-Noir', 'Thriller']"
+798,0039313.jpeg,"['Crime', 'Thriller']"
 799,0315733.jpeg,['Drama']
 800,0026683.jpeg,"['Crime', 'Drama']"
 801,2529256.jpeg,"['Drama', 'Music', 'Romance']"
@@ -877,7 +877,7 @@
 875,1242642.jpeg,"['Drama', 'Sci-Fi']"
 876,0033596.jpeg,['Comedy']
 877,0120617.jpeg,"['Action', 'Adventure', 'Drama', 'Thriller', 'War']"
-878,0310044.jpeg,"['Documentary', 'Adult']"
+878,0310044.jpeg,['Documentary']
 879,0063668.jpeg,"['Animation', 'Action', 'Adventure', 'Drama', 'Family', 'Fantasy']"
 880,0097670.jpeg,"['Action', 'Crime', 'Drama', 'Thriller']"
 881,0054673.jpeg,"['Horror', 'Sci-Fi']"
@@ -1130,7 +1130,7 @@
 1128,0479074.jpeg,"['Comedy', 'Drama', 'Fantasy']"
 1129,0090888.jpeg,"['Drama', 'Music', 'Mystery', 'Romance']"
 1130,0100768.jpeg,"['Documentary', 'History', 'Music']"
-1131,0046792.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1131,0046792.jpeg,"['Crime', 'Drama', 'Thriller']"
 1132,0343660.jpeg,"['Comedy', 'Romance']"
 1133,0469979.jpeg,['Horror']
 1134,0066167.jpeg,['Western']
@@ -1217,7 +1217,7 @@
 1215,0033780.jpeg,"['Drama', 'Romance', 'Comedy']"
 1216,0103977.jpeg,"['Drama', 'Romance']"
 1217,0094644.jpeg,['Thriller']
-1218,0034399.jpeg,"['Drama', 'Film-Noir', 'Thriller']"
+1218,0034399.jpeg,"['Drama', 'Thriller']"
 1219,0950739.jpeg,"['Action', 'Adventure', 'Drama', 'Romance', 'War']"
 1220,0067565.jpeg,['Comedy']
 1221,2195548.jpeg,"['Comedy', 'Drama']"
@@ -1231,7 +1231,7 @@
 1229,0419160.jpeg,"['Horror', 'Thriller']"
 1230,1737122.jpeg,"['Documentary', 'Biography', 'Comedy', 'Music']"
 1231,0421206.jpeg,"['Crime', 'Drama', 'Sport']"
-1232,0039768.jpeg,"['Drama', 'Film-Noir', 'Mystery', 'Thriller']"
+1232,0039768.jpeg,"['Drama', 'Mystery', 'Thriller']"
 1233,0050086.jpeg,"['Drama', 'Thriller', 'Western']"
 1234,0086525.jpeg,"['Comedy', 'Romance']"
 1235,0025189.jpeg,"['Crime', 'Sci-Fi']"
@@ -1371,7 +1371,7 @@
 1369,0032356.jpeg,"['Adventure', 'Romance']"
 1370,2870808.jpeg,"['Comedy', 'Romance']"
 1371,1715827.jpeg,"['Drama', 'Thriller']"
-1372,2277946.jpeg,"['Documentary', 'Adventure', 'Family', 'News']"
+1372,2277946.jpeg,"['Documentary', 'Adventure', 'Family']"
 1373,1597522.jpeg,"['Adventure', 'Comedy', 'Family']"
 1374,0046398.jpeg,"['Drama', 'War']"
 1375,0087597.jpeg,"['Action', 'Adventure', 'Sci-Fi']"
@@ -1411,7 +1411,7 @@
 1409,0113666.jpeg,"['Crime', 'Drama']"
 1410,1686042.jpeg,"['Comedy', 'Drama', 'Romance']"
 1411,0048317.jpeg,"['Biography', 'Drama', 'Music', 'Romance']"
-1412,0043503.jpeg,"['Drama', 'Crime', 'Film-Noir']"
+1412,0043503.jpeg,"['Drama', 'Crime']"
 1413,0212423.jpeg,"['Comedy', 'Drama', 'Romance']"
 1414,2076176.jpeg,"['Biography', 'Drama', 'Music']"
 1415,0023382.jpeg,"['Drama', 'Romance']"
@@ -1436,7 +1436,7 @@
 1434,0395495.jpeg,"['Comedy', 'Drama', 'Romance']"
 1435,2238050.jpeg,"['Drama', 'Mystery', 'Thriller']"
 1436,0079894.jpeg,"['Adventure', 'Sci-Fi', 'Thriller']"
-1437,1671513.jpeg,"['Documentary', 'News']"
+1437,1671513.jpeg,['Documentary']
 1438,0100288.jpeg,['Drama']
 1439,0107290.jpeg,"['Adventure', 'Sci-Fi', 'Thriller']"
 1440,0063800.jpeg,['Comedy']
@@ -1462,14 +1462,14 @@
 1460,0420509.jpeg,"['Crime', 'Drama', 'Thriller']"
 1461,1605630.jpeg,['Comedy']
 1462,0081677.jpeg,"['Adventure', 'Horror', 'Thriller']"
-1463,0189553.jpeg,"['Documentary', 'Adult']"
+1463,0189553.jpeg,['Documentary']
 1464,0208502.jpeg,"['Animation', 'Drama', 'Fantasy', 'Horror', 'Mystery', 'Sci-Fi']"
 1465,0089941.jpeg,"['Action', 'Adventure', 'Drama', 'Thriller']"
 1466,0069947.jpeg,"['Crime', 'Drama', 'Thriller']"
 1467,0120646.jpeg,['Drama']
 1468,0101700.jpeg,"['Comedy', 'Crime']"
 1469,0073722.jpeg,['Comedy']
-1470,0035082.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1470,0035082.jpeg,"['Crime', 'Drama', 'Thriller']"
 1471,0048445.jpeg,"['Musical', 'Romance', 'Western']"
 1472,0054102.jpeg,"['Biography', 'Crime', 'Drama', 'Thriller']"
 1473,1334102.jpeg,"['Drama', 'Thriller']"
@@ -1489,7 +1489,7 @@
 1487,0120711.jpeg,"['Action', 'Adventure', 'Drama', 'Sci-Fi']"
 1488,0376874.jpeg,"['Comedy', 'Drama']"
 1489,0076941.jpeg,"['Drama', 'Romance']"
-1490,0046514.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1490,0046514.jpeg,"['Crime', 'Drama', 'Thriller']"
 1491,0070698.jpeg,"['Horror', 'Thriller']"
 1492,0043150.jpeg,"['Comedy', 'Drama', 'Romance']"
 1493,0120051.jpeg,['Thriller']
@@ -1569,7 +1569,7 @@
 1567,0374345.jpeg,"['Action', 'Crime', 'Drama', 'Thriller']"
 1568,1043787.jpeg,['Drama']
 1569,0048918.jpeg,"['Drama', 'Sci-Fi']"
-1570,0044040.jpeg,"['Action', 'Drama', 'Film-Noir']"
+1570,0044040.jpeg,"['Action', 'Drama']"
 1571,1827528.jpeg,"['Drama', 'Romance']"
 1572,0072206.jpeg,['Drama']
 1573,0070468.jpeg,"['Crime', 'Drama', 'Thriller']"
@@ -1629,7 +1629,7 @@
 1627,0104053.jpeg,"['Horror', 'Mystery', 'Thriller']"
 1628,0424885.jpeg,"['Documentary', 'War']"
 1629,0836683.jpeg,['Horror']
-1630,0037761.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1630,0037761.jpeg,"['Crime', 'Drama', 'Thriller']"
 1631,1340803.jpeg,"['Animation', 'Comedy']"
 1632,0116851.jpeg,"['Drama', 'Romance']"
 1633,0036152.jpeg,"['Documentary', 'History', 'War']"
@@ -1672,7 +1672,7 @@
 1670,1564585.jpeg,"['Action', 'Sci-Fi', 'Thriller']"
 1671,0045039.jpeg,"['Adventure', 'Drama', 'History', 'Romance']"
 1672,0038929.jpeg,"['Comedy', 'Crime', 'Mystery', 'Thriller']"
-1673,0033870.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Mystery']"
+1673,0033870.jpeg,"['Crime', 'Drama', 'Mystery']"
 1674,3546114.jpeg,"['Drama', 'Romance']"
 1675,0082525.jpeg,"['Action', 'Comedy']"
 1676,0096463.jpeg,"['Comedy', 'Drama', 'Romance']"
@@ -1692,10 +1692,10 @@
 1690,0101588.jpeg,"['Crime', 'Drama']"
 1691,1053859.jpeg,"['Horror', 'Mystery', 'Thriller']"
 1692,0407998.jpeg,"['Drama', 'Romance']"
-1693,0039066.jpeg,"['Drama', 'Film-Noir', 'Thriller']"
+1693,0039066.jpeg,"['Drama', 'Thriller']"
 1694,0066970.jpeg,"['Action', 'Crime', 'Drama', 'Thriller']"
 1695,2215077.jpeg,"['Drama', 'Romance']"
-1696,0038780.jpeg,"['Crime', 'Drama', 'Film-Noir']"
+1696,0038780.jpeg,"['Crime', 'Drama']"
 1697,0411323.jpeg,"['Drama', 'Thriller']"
 1698,0061633.jpeg,"['Comedy', 'Crime']"
 1699,1473074.jpeg,"['Comedy', 'Drama']"
@@ -1776,7 +1776,7 @@
 1774,1037228.jpeg,"['Drama', 'Romance']"
 1775,0030470.jpeg,"['Crime', 'Drama', 'Mystery']"
 1776,0063227.jpeg,"['Biography', 'Drama', 'History']"
-1777,0040740.jpeg,"['Action', 'Drama', 'Film-Noir', 'Romance', 'Thriller']"
+1777,0040740.jpeg,"['Action', 'Drama', 'Romance', 'Thriller']"
 1778,0146675.jpeg,"['Action', 'Fantasy', 'Horror', 'Mystery']"
 1779,1520392.jpeg,['Animation']
 1780,0107642.jpeg,"['Comedy', 'Romance']"
@@ -1786,7 +1786,7 @@
 1784,0092655.jpeg,"['Adventure', 'Comedy', 'Crime', 'Drama']"
 1785,0049225.jpeg,"['Fantasy', 'Comedy']"
 1786,0107507.jpeg,"['Comedy', 'Mystery']"
-1787,0039224.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1787,0039224.jpeg,"['Crime', 'Drama', 'Thriller']"
 1788,0406759.jpeg,"['Horror', 'Mystery']"
 1789,0282856.jpeg,"['Documentary', 'Biography']"
 1790,1037850.jpeg,"['Drama', 'Fantasy', 'Music', 'Romance']"
@@ -1817,7 +1817,7 @@
 1815,0485147.jpeg,"['Short', 'Drama']"
 1816,0039853.jpeg,"['Comedy', 'Crime', 'Drama', 'Musical', 'Mystery', 'Romance']"
 1817,0119142.jpeg,['Comedy']
-1818,0039208.jpeg,"['Crime', 'Drama', 'Film-Noir']"
+1818,0039208.jpeg,"['Crime', 'Drama']"
 1819,2402179.jpeg,['Documentary']
 1820,0084315.jpeg,"['Animation', 'Adventure', 'Sci-Fi']"
 1821,0042192.jpeg,['Drama']
@@ -1899,9 +1899,9 @@
 1897,0404978.jpeg,"['Comedy', 'Crime']"
 1898,0034389.jpeg,"['Comedy', 'Mystery']"
 1899,0123948.jpeg,"['Crime', 'Horror', 'Mystery', 'Thriller']"
-1900,0044079.jpeg,"['Crime', 'Film-Noir', 'Thriller']"
+1900,0044079.jpeg,"['Crime', 'Thriller']"
 1901,0029926.jpeg,"['Biography', 'Crime', 'Drama', 'Mystery', 'Romance']"
-1902,0023427.jpeg,"['Action', 'Crime', 'Drama', 'Film-Noir', 'Thriller']"
+1902,0023427.jpeg,"['Action', 'Crime', 'Drama', 'Thriller']"
 1903,2387589.jpeg,['Thriller']
 1904,0118780.jpeg,"['Comedy', 'Drama', 'Musical', 'Romance']"
 1905,1634003.jpeg,"['Animation', 'Adventure', 'Family', 'Sport']"
@@ -2010,11 +2010,11 @@
 2008,0114478.jpeg,"['Comedy', 'Drama']"
 2009,0110547.jpeg,"['Animation', 'Musical', 'Short', 'Comedy']"
 2010,0100663.jpeg,"['Comedy', 'Horror', 'Thriller']"
-2011,0043251.jpeg,"['Film-Noir', 'Mystery']"
+2011,0043251.jpeg,['Mystery']
 2012,0166396.jpeg,['Comedy']
 2013,0101268.jpeg,"['Drama', 'Sport']"
 2014,0305973.jpeg,"['Crime', 'Drama']"
-2015,0041495.jpeg,"['Crime', 'Drama', 'Film-Noir']"
+2015,0041495.jpeg,"['Crime', 'Drama']"
 2016,0110305.jpeg,"['Family', 'Adventure']"
 2017,2909154.jpeg,"['Short', 'Comedy', 'Drama']"
 2018,0065446.jpeg,"['Comedy', 'Drama', 'Romance', 'Western']"
@@ -2123,7 +2123,7 @@
 2121,0070354.jpeg,"['Action', 'Comedy', 'Fantasy', 'Romance']"
 2122,0040970.jpeg,['Drama']
 2123,0300444.jpeg,"['Documentary', 'Biography']"
-2124,0038355.jpeg,"['Crime', 'Film-Noir', 'Mystery', 'Thriller']"
+2124,0038355.jpeg,"['Crime', 'Mystery', 'Thriller']"
 2125,0075990.jpeg,"['Horror', 'Mystery', 'Sci-Fi', 'Thriller']"
 2126,2040560.jpeg,"['Horror', 'Mystery', 'Thriller']"
 2127,0076538.jpeg,"['Adventure', 'Family', 'Fantasy', 'Musical']"
@@ -2156,7 +2156,7 @@
 2154,0071671.jpeg,"['Adventure', 'Family', 'Fantasy', 'Sci-Fi']"
 2155,0039472.jpeg,['Comedy']
 2156,0010155.jpeg,"['Short', 'Comedy']"
-2157,0042960.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+2157,0042960.jpeg,"['Crime', 'Drama', 'Thriller']"
 2158,1780762.jpeg,"['Action', 'Adventure', 'Horror', 'Thriller']"
 2159,0457572.jpeg,"['Comedy', 'Drama', 'Horror', 'Sci-Fi']"
 2160,0067601.jpeg,"['Drama', 'Horror', 'Thriller']"
@@ -2478,7 +2478,7 @@
 2476,0395417.jpeg,"['Documentary', 'Drama', 'Sci-Fi']"
 2477,0095977.jpeg,"['Action', 'Comedy', 'Crime', 'Thriller']"
 2478,0103516.jpeg,"['Crime', 'Drama', 'Mystery', 'Romance', 'Thriller']"
-2479,2151988.jpeg,"['Documentary', 'Drama', 'History', 'News']"
+2479,2151988.jpeg,"['Documentary', 'Drama', 'History']"
 2480,0909388.jpeg,"['Biography', 'Drama', 'Music']"
 2481,0107751.jpeg,['Drama']
 2482,0080116.jpeg,"['Comedy', 'Mystery', 'Romance', 'Western']"
@@ -2488,7 +2488,7 @@
 2486,0443507.jpeg,['Romance']
 2487,0044410.jpeg,['Comedy']
 2488,0115928.jpeg,"['Comedy', 'Drama', 'Romance']"
-2489,0050213.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Thriller']"
+2489,0050213.jpeg,"['Crime', 'Drama', 'Thriller']"
 2490,0039485.jpeg,['Comedy']
 2491,0075261.jpeg,['Horror']
 2492,0427528.jpeg,"['Action', 'Drama', 'Thriller']"
@@ -2557,16 +2557,16 @@
 2555,0961206.jpeg,['Horror']
 2556,0290916.jpeg,"['Comedy', 'Drama', 'Romance']"
 2557,2557276.jpeg,['Adventure']
-2558,0037469.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Mystery', 'Thriller']"
+2558,0037469.jpeg,"['Crime', 'Drama', 'Mystery', 'Thriller']"
 2559,2258345.jpeg,['Comedy']
-2560,0021750.jpeg,"['Crime', 'Drama', 'Film-Noir', 'Romance']"
+2560,0021750.jpeg,"['Crime', 'Drama', 'Romance']"
 2561,0233481.jpeg,"['Drama', 'Horror']"
 2562,0094593.jpeg,"['Comedy', 'Fantasy', 'Romance']"
 2563,1047449.jpeg,"['Drama', 'Horror']"
 2564,0368571.jpeg,"['Comedy', 'Romance']"
 2565,0280990.jpeg,"['Action', 'Crime', 'Thriller']"
-2566,1742683.jpeg,"['Drama', 'History', 'News']"
-2567,2992220.jpeg,"['Documentary', 'Biography', 'History', 'News']"
+2566,1742683.jpeg,"['Drama', 'History']"
+2567,2992220.jpeg,"['Documentary', 'Biography', 'History']"
 2568,0025791.jpeg,['Drama']
 2569,0103247.jpeg,"['Adventure', 'Drama']"
 2570,1320304.jpeg,"['Horror', 'Thriller']"
